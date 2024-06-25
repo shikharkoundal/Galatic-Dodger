@@ -4,7 +4,8 @@ Galactic Dodger is an exhilarating arcade-style space-themed game where players 
 
 ## Overview
 
-The objective of Galactic Dodger is to survive the onslaught of incoming enemy spaceships and earn points by skillfully shooting them down. The game features a constantly shifting background, simulating the vastness of space, with various celestial bodies and cosmic elements.
+The objective of Galactic Dodger is to survive the onslaught of![Uploading WhatsApp Image 2024-03-15 at 3.04.26 PM.jpeg…]()
+ incoming enemy spaceships and earn points by skillfully shooting them down. The game features a constantly shifting background, simulating the vastness of space, with various celestial bodies and cosmic elements.
 
 ## Features
 
